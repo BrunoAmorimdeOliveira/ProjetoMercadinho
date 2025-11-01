@@ -1,0 +1,8 @@
+'''
+Crie um programa que simule o sistema de caixa de um mercadinho. 
+O usuário deve digitar o nome do produto, a quantidade e o preço unitário. 
+O sistema deve calcular o total de cada item e o total da compra. 
+Utilize funções de string como strip(), lower(), upper(), split() e join() para tratar as entradas. 
+A compra termina quando o usuário digitar “fim”. 
+Mostre um recibo com todos os produtos e valores.
+'''
